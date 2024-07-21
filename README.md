@@ -1,6 +1,6 @@
-# Hi 👋, I'm Manar Shahin
+# Hi 👋, I'm Youstina Bishay
 
-### Mobile App Developer | Flutter @ 
+### Mobile App Developer | Flutter 
 
 - 🏡 I am a **Computer Science Student** from the Faculty of Computers & Information at **MTI** University
 - 🌱 I’m currently studying **Flutter** and **iOS**
