@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Youstina Bishay</h1>
-<h3 align="center">A Flutter Developer from Egypt</h3>
+# Hi 👋, I'm Manar Shahin
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tina-sameh&label=Profile%20views&color=0e75b6&style=flat" alt="tina-sameh" /> </p>
+### Mobile App Developer | Flutter @ Etisalat
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tina-sameh" alt="tina-sameh" /></a> </p>
+- 🏡 I am a **Computer Science Student** from the Faculty of Computers & Information at MTI University
+- 🌱 I’m currently studying **Flutter** and **iOS**
+- 📫 How to reach me **youstinabishay7@gmail.com**
+- 👀 I’m currently open for a new **job opportunity**, this is [MY RESUME](https://drive.google.com/file/d/15779s55cwnorB0gp9lEh0to2_7hs0BWY/view?usp=drivesdk)
+- 🤓 Always **learning new things**
+- 🐱‍💻 Doing my best
 
-- 🌱 I’m currently learning **Mobile Apps developer by Flutter**
+### Connect with me
 
-- 👨‍💻 All of my projects are available at [https://github.com/Tina-sameh](https://github.com/Tina-sameh)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](youstinabishay7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D9%8A%D9%88%D8%B3%D8%AA%D9%8A%D9%86%D8%A7-%D8%A8%D8%B4%D8%A7%D9%89-449965313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tina-sameh&show_icons=true&locale=en&layout=compact" alt="tina-sameh" /></p>
+<img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" alt="Computer illustration" style="width:400px;height:auto;"/>
