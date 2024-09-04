@@ -3,12 +3,12 @@
 ### Mobile App Developer | Flutter 
 
 - 🏡 I am a **Computer Science Student** from the Faculty of Computers & Information at **MTI** University
-- 🌱 I’m currently studying **Flutter** and **iOS**
+- 🌱 I’m currently studying **Flutter** 
 - 📫 How to reach me **youstinabishay7@gmail.com**
-- 👀 I’m currently open for a new **job opportunity**, this is [MY RESUME](https://drive.google.com/file/d/17wPnhqWK8DnFiB7NdMT_7H_Y4JEo-9PN/view?usp=drivesdk)
+- 👀 I’m currently open for a new **job opportunity**, this is [MY RESUME](https://drive.google.com/file/d/1F3Oi9ISZBO9dVc2HQh6Gu8zRq0Zfx3wj/view?usp=drivesdk)
 - 🤓 Always **learning new things**
 - 🐱‍💻 Doing my best
-
+- 📜🏅 **My Certificates** [UX Design Fundamentals](https://drive.google.com/file/d/1FB_OFfXmYKdKtVgXRAW7AVy0gNaMrtc2/view?usp=drivesdk) 
 ### Connect with me
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](youstinabishay7@gmail.com)
